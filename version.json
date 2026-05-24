@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.2.0/DraughtDeskSetup.exe",
-  "release_notes": "Updates.",
-  "release_date": "2026-06-01",
+  "version": "1.2.1",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.2.1/DraughtDeskSetup.exe",
+  "release_notes": "Automated release pipeline test",
+  "release_date": "2026-05-24",
   "required": false
 }
