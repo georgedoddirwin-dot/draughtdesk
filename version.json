@@ -1,8 +1,7 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.1.0/DraughtDeskSetup.exe",
-  "release_notes": "Standards Checker — QA drawings before issue with configurable rules and traffic light report.\nXRef Path Manager — detect and repair broken XRef paths in bulk.\nBatch Plot — plot multiple drawings to PDF with named profiles.\nHelp system — full tabbed documentation for all tools.\nLicence improvements — 14-day free trial available.",
-  "release_date": "2026-05-23",
-  "required": false,
-  "min_autocad_version": "2024"
+  "version": "1.2.0",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.2.0/DraughtDeskSetup.exe",
+  "release_notes": "Updates.",
+  "release_date": "2026-06-01",
+  "required": false
 }
