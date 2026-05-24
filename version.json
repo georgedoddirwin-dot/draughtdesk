@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.2.2/DraughtDeskSetup.exe",
-  "release_notes": "Installer now updates both plugin locations",
+  "version": "1.2.3",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.2.3/DraughtDeskSetup.exe",
+  "release_notes": "Installer reverted to standard per-user install, no admin required",
   "release_date": "2026-05-24",
   "required": false
 }
