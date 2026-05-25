@@ -1,7 +1,7 @@
 {
-  "version": "1.2.5",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.2.5/DraughtDeskSetup.exe",
-  "release_notes": "Fixed trial key display in ribbon brand panel",
-  "release_date": "2026-05-24",
+  "version": "1.2.6",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.2.6/DraughtDeskSetup.exe",
+  "release_notes": "CSV Import v2 - sequential fields, drag reorder, live preview, flexible column mapping",
+  "release_date": "2026-05-25",
   "required": false
 }
