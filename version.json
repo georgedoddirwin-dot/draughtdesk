@@ -1,7 +1,7 @@
 {
-  "version": "1.2.8",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.2.8/DraughtDeskSetup.exe",
-  "release_notes": "Fix Block Import",
+  "version": "1.2.9",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.2.9/DraughtDeskSetup.exe",
+  "release_notes": "clean up",
   "release_date": "2026-05-25",
   "required": false
 }
