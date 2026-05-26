@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.3.1/DraughtDeskSetup.exe",
-  "release_notes": "Fix installer path to Program Files (x86) ApplicationPlugins; fix PackageContents.xml structure",
+  "version": "1.3.2",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.3.2/DraughtDeskSetup.exe",
+  "release_notes": "Fix auto-load: correct install path and PackageContents.xml structure for AutoCAD 2026",
   "release_date": "2026-05-26",
   "required": false
 }
