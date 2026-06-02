@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.3.3/DraughtDeskSetup.exe",
-  "release_notes": "Fix installer registry write to HKCU",
-  "release_date": "2026-05-26",
+  "version": "1.3.4",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.3.4/DraughtDeskSetup.exe",
+  "release_notes": "Rename Insert panel buttons; VP Planner colour 252, dashed, lineweight 1, pick from viewport; add DD_ACTIVATE command",
+  "release_date": "2026-06-02",
   "required": false
 }
