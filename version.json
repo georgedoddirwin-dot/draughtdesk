@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.4.1/DraughtDeskSetup.exe",
-  "release_notes": "Tidy Up",
-  "release_date": "2026-06-10",
+  "version": "1.5.0",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.5.0/DraughtDeskSetup.exe",
+  "release_notes": "Major refresh: Block Scanner now edits and writes attributes back to drawings with cross-file comparison sorting; XRef Path Manager and Standards Checker ribbon buttons added; product-wide styling, high-DPI scaling, stability and logging improvements",
+  "release_date": "2026-06-14",
   "required": false
 }
