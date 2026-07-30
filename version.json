@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.5.0/DraughtDeskSetup.exe",
-  "release_notes": "Major refresh: Block Scanner now edits and writes attributes back to drawings with cross-file comparison sorting; XRef Path Manager and Standards Checker ribbon buttons added; product-wide styling, high-DPI scaling, stability and logging improvements",
-  "release_date": "2026-06-14",
+  "version": "1.5.1",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.5.1/DraughtDeskSetup.exe",
+  "release_notes": "Block Scanner now reads and edits table cells and dynamic block properties; dynamic properties are chosen from their state list and written back with attributes. AutoCAD 2025 and 2026.",
+  "release_date": "2026-07-30",
   "required": false
 }
