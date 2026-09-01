@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.5.1/DraughtDeskSetup.exe",
-  "release_notes": "Block Scanner now reads and edits table cells and dynamic block properties; dynamic properties are chosen from their state list and written back with attributes. AutoCAD 2025 and 2026.",
-  "release_date": "2026-07-30",
+  "version": "1.5.2",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.5.2/DraughtDeskSetup.exe",
+  "release_notes": "New Project, Project Info, Create Drawings and XRef tools: build a project folder structure from a template, create drawing sets from the DI document schedule with multi-sheet layouts and notes states, and create and attach external files with relative paths. Block Scanner now shows which layout tab each row belongs to. Fixes Uniclass layer data missing from installed builds. AutoCAD 2025 and 2026.",
+  "release_date": "2026-09-01",
   "required": false
 }
