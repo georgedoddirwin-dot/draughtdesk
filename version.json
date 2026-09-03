@@ -1,7 +1,7 @@
 {
-  "version": "1.5.3",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.5.3/DraughtDeskSetup.exe",
-  "release_notes": "New Project Hub: projects, stage progress and scanning existing project folders. Create Drawings builds a set from the DI document schedule with multi-sheet layouts, notes states and project information applied. External files are created and overlaid with relative paths. Block Scanner shows which layout tab each row belongs to. New ribbon layout and icons. AutoCAD 2025 and 2026.",
-  "release_date": "2026-09-02",
+  "version": "1.5.4",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.5.4/DraughtDeskSetup.exe",
+  "release_notes": "Drawing sets are now CSV files in a folder you choose, so a team can share standards and a firm can use its own. XRef groups are shared per folder. Import and export sets to CSV for editing in Excel. Fixes drawing sets being overwritten when switching between them, and dialogs overlapping on scaled displays.",
+  "release_date": "2026-09-03",
   "required": false
 }
