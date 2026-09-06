@@ -1,7 +1,7 @@
 {
-  "version": "1.5.4",
-  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.5.4/DraughtDeskSetup.exe",
-  "release_notes": "Drawing sets are now CSV files in a folder you choose, so a team can share standards and a firm can use its own. XRef groups are shared per folder. Import and export sets to CSV for editing in Excel. Fixes drawing sets being overwritten when switching between them, and dialogs overlapping on scaled displays.",
-  "release_date": "2026-09-03",
+  "version": "1.5.5",
+  "download_url": "https://github.com/georgedoddirwin-dot/draughtdesk/releases/download/v1.5.5/DraughtDeskSetup.exe",
+  "release_notes": "Project Hub, New Project and Create Drawings rebuilt so they scale correctly on any display. Drawing sets are CSV files in a folder you choose, with import and export. Block Scanner fills several rows at once. Viewport Planner shows the footprint as you place it, and viewports can be applied to every tab across many drawings. New VP Planner drawing carrying all external files. Fixes sheet views being disturbed when external files are attached. AutoCAD 2025 and 2026.",
+  "release_date": "2026-09-06",
   "required": false
 }
